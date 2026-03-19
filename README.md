@@ -91,7 +91,9 @@ Use the following template when working with the system:
 
 
 Student Name:
+
 Current Course:
+
 Issue:
 
 Recent Behavior:
@@ -201,7 +203,7 @@ This system demonstrates how AI can be used to:
 
 ---
 
-## 🚀 Setup & Usage
+## Setup & Usage
 
 ### Step 1: Create a Gemini Gem
 
@@ -238,7 +240,7 @@ Use the output to:
 
 ---
 
-## 🧠 Gemini Instruction Set
+## Gemini Instruction Set
 
 Below is a **generalized instruction framework** used to power this system.
 
