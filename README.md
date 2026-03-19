@@ -55,8 +55,9 @@ INPUT → ANALYSIS → COACHING LOGIC → ACTIONABLE OUTPUT
 
 Use the following template when working with the system:
 
-Student Name: John Doe
-Current Course: Core 2
+Student Name: 
+
+Current Course: 
 
 Issue: 
 (Example: failed exam twice, missing assignments, disengaged, attendance drop, etc.)
@@ -70,10 +71,7 @@ Performance Data:
 Context (if any):
 (Job, family, tech issues, prior conversations, mindset concerns, etc.)
 
-
-
-What I’m Considering: Walk through his daily schedule, see where we can get study time in. On drive to work? While getting ready, using the canvas app, etc
-
+What I’m Considering: 
 (Optional – what you think might be going on or what you want to try)
 
 
