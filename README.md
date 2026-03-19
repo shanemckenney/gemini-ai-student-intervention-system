@@ -43,6 +43,36 @@ This project provides a **repeatable AI-powered workflow** that:
 
 ---
 
+## ⚠️ Required Configuration (Important)
+
+This system is **not plug-and-play by itself**.
+
+It is designed to work alongside **your organization’s policies, standards, and coaching framework**.
+
+Before using this system, you must define:
+
+- Your **student success or intervention policies**  
+- Your **performance expectations and thresholds**  
+- Your **coaching or mentoring framework**  
+- Your **documentation standards** (CRM, logs, etc.)  
+
+### Why this matters
+
+The system does not replace your organization’s process—it **structures and executes it**.
+
+Without this context, outputs may be generic and less effective.
+
+### Example Inputs You Should Provide to the AI
+
+- Internal training policies  
+- Escalation procedures  
+- Coaching models (e.g., A-OO-A, GROW, etc.)  
+- Performance benchmarks  
+
+> Think of this system as a **decision engine**, not the source of truth.
+
+---
+
 ## How It Works
 
 
